@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='cdk_constructs',
-    version='0.1',    
+    version='0.2',    
     description='test construct modules',
     author='Irene Jia',
     author_email='irene.jia@stelligent.com',
